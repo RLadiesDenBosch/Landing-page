@@ -67,3 +67,5 @@ user_groups = []
 +++
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+Our meetups are hosted by the [Jheronimus Academy of Data Science](https://www.jads.nl/) (JADS), located in former monastery Mariënburg. Click [here](https://www.google.com/maps/place/Universiteit+Jheronimus+Academy+of+Data+Science/@51.6882033,5.2963352,17z/data=!3m1!4b1!4m5!3m4!1s0x47c6eef520f2020b:0x886355316fb9694!8m2!3d51.6882!4d5.2985239) for directions. 
