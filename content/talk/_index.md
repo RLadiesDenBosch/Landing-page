@@ -1,5 +1,5 @@
 +++
-title = "Recent & Upcoming Talks"
+title = "R-Ladies Meetups"
 
 # View.
 #   1 = List
