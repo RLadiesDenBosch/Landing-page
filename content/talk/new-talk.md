@@ -1,6 +1,8 @@
 ---
 title: "New Talk"
-date: 2019-04-12T22:47:20+02:00
-draft: false
+date: 2019-06-30T18:00:00+02:00
+location: JADS
+
 ---
 
+Second event
