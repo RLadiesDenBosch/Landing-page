@@ -5,7 +5,7 @@
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
 color_theme = "default"
 # Enable users to switch between day and night mode?
-day_night = true
+day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
@@ -124,7 +124,7 @@ comment_count = true
 section_pager = false
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Configuration of publication pages.
 [publications]

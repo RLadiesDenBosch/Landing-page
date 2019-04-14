@@ -1,7 +1,9 @@
 ---
-title: "Launch event"
-author: "Veerle van son"
-date: 2019-04-12T22:47:20+02:00
+title: "R-Ladies Den Bosch Launch Event"
+author: "Veerle van Son"
+date: 2019-06-14T19:00:00+02:00
+event: Launch Event
+location: JADS, Den Bosch
 
 ---
 
