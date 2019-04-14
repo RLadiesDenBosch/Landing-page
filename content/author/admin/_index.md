@@ -65,6 +65,7 @@ user_groups = []
 #   link = "files/cv.pdf"
 
 +++
+<br/>
 
 R-Ladies Den Bosch is part of R-Ladies Global. We aim to promote gender diversity in the R community. 
 
