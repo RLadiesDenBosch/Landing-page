@@ -38,7 +38,7 @@ user_groups = []
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:denbosch@rladies.org"
 
 [[social]]
   icon = "twitter"
@@ -67,6 +67,6 @@ user_groups = []
 +++
 <br/>
 
-R-Ladies Den Bosch is part of R-Ladies Global. We aim to promote gender diversity in the R community. 
+R-Ladies Den Bosch is part of R-Ladies Global. We are all about promoting gender diversity in the R community. 
 
-Our meetups are hosted at the [Jheronimus Academy of Data Science](https://www.jads.nl/) (JADS), located in former monastery Mariënburg. Walking from the train station to the JADS takes about 10 minutes. Click [here](https://www.google.com/maps/dir/''S-Hertogenbosch,+Stationsplein,+'s-Hertogenbosch'/Universiteit+Jheronimus+Academy+of+Data+Science,+Sint+Janssingel+92,+5211+DA+'s-Hertogenbosch/@51.69039,5.2926397,16z/data=!4m14!4m13!1m5!1m1!1s0x47c6ee8a7a3fb9fb:0x4320a46dabce6f5c!2m2!1d5.2935477!2d51.6905476!1m5!1m1!1s0x47c6eef520f2020b:0x886355316fb9694!2m2!1d5.2985239!2d51.6882!3e3) for directions. 
+Our meetups are hosted at the [Jheronimus Academy of Data Science](https://www.jads.nl/) (JADS), located in former monastery Mariënburg. Walking from the train station to the JADS takes about 10 minutes. Click [here](https://www.google.com/maps/dir/''S-Hertogenbosch,+Stationsplein,+'s-Hertogenbosch'/Universiteit+Jheronimus+Academy+of+Data+Science,+Sint+Janssingel+92,+5211+DA+'s-Hertogenbosch/@51.69039,5.2926397,16z/data=!4m14!4m13!1m5!1m1!1s0x47c6ee8a7a3fb9fb:0x4320a46dabce6f5c!2m2!1d5.2935477!2d51.6905476!1m5!1m1!1s0x47c6eef520f2020b:0x886355316fb9694!2m2!1d5.2985239!2d51.6882!3e3) for directions.
