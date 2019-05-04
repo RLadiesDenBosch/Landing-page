@@ -6,6 +6,10 @@
   border-radius: 0;
 }
 
+.author-card .portrait {
+  border-radius: 0;
+}
+
 a:hover, a:focus {
     color: #88398A;
 }

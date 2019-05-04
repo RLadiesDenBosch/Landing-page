@@ -1,1 +1,1 @@
-.portrait{width:200px;height:200px;border-radius:0}a:hover,a:focus{color:#88398a}a,h3.article-title a:hover{color:#88398a}
+.portrait{width:200px;height:200px;border-radius:0}.author-card .portrait{border-radius:0}a:hover,a:focus{color:#88398a}a,h3.article-title a:hover{color:#88398a}
