@@ -1,13 +1,13 @@
 /** Custom CSS **/
 
 .portrait {
-  width: 230px;
-  height: 230px;
+  width: 200px;
+  height: 200px;
   border-radius: 0;
 }
 
 a:hover, a:focus {
-    color: #562457;
+    color: #88398A;
 }
 
 a, h3.article-title a:hover {
