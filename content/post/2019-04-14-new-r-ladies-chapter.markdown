@@ -1,7 +1,7 @@
 ---
 title: Launching a new R-Ladies chapter
 author: admin
-date: '2019-05-04'
+date: '2019-05-11'
 slug: new-r-ladies-chapter
 categories: []
 tags: []
