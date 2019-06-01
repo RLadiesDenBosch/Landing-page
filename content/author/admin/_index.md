@@ -57,16 +57,11 @@ user_groups = []
   
 
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+
 
 +++
 <br/>
 
-R-Ladies Den Bosch is part of [R-Ladies Global](https://rladies.org/). We aim to promote gender diversity in the R community. The R-Ladies Code of Conduct can be found [here](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).
+R-Ladies Den Bosch is part of [R-Ladies Global](https://rladies.org/). We aim to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. The R-Ladies Code of Conduct can be found [here](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).
 
-Our meetups are hosted at the [Jheronimus Academy of Data Science](https://www.jads.nl/) (JADS), 10 minutes walking distance from 's-Hertogenbosch train station. Click [here](https://www.google.com/maps/dir/''S-Hertogenbosch,+Stationsplein,+'s-Hertogenbosch'/Universiteit+Jheronimus+Academy+of+Data+Science,+Sint+Janssingel+92,+5211+DA+'s-Hertogenbosch/@51.69039,5.2926397,16z/data=!4m14!4m13!1m5!1m1!1s0x47c6ee8a7a3fb9fb:0x4320a46dabce6f5c!2m2!1d5.2935477!2d51.6905476!1m5!1m1!1s0x47c6eef520f2020b:0x886355316fb9694!2m2!1d5.2985239!2d51.6882!3e3) for directions.
+
