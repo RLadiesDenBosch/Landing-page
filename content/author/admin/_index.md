@@ -62,6 +62,13 @@ user_groups = []
 +++
 <br/>
 
-R-Ladies Den Bosch is part of [R-Ladies Global](https://rladies.org/). We aim to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. The R-Ladies Code of Conduct can be found [here](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct).
+R-Ladies Den Bosch is part of [R-Ladies Global](https://rladies.org/). We aim to achieve proportionate representation by encouraging, inspiring, and empowering the minorities currently underrepresented in the R community. The R-Ladies Code of Conduct can be found [here](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct). 
+
+We are kindly sponsored by the R Consortium. Read the R Consortium Code of Conduct [here](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
+
+
+<center>
+<img src="/img/RConsortium_Horizontal_Pantone.png" alt="" width="30%" height="30%"/>
+</center>
 
 
